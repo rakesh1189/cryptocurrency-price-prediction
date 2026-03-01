@@ -1,0 +1,5 @@
+data/ 
+models/ 
+plots/ 
+__pycache__/ 
+*.h5 
