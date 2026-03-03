@@ -4,20 +4,13 @@
 
 ### Step 1: Install dependencies
 Open Command Prompt inside this folder and run:
-```
 pip install -r requirements.txt
-```
-
 ### Step 2: Run files IN ORDER
-
-```
 python 1_data_collection.py
 python 2_preprocessing.py
 python 3_linear_regression.py
 python 4_lstm_model.py
 python 5_visualize.py
-```
-
 ## File Description
 
 | File | Description |
